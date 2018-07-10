@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2018-06-08 13:38:29"><sys_remote_update_set action="INSERT_OR_UPDATE"><application display_value="Global">global</application><application_name>Global</application_name><application_scope>global</application_scope><application_version/><collisions/><commit_date/><deleted/><description>Creates a global UI Action that will add any record (plus attachments) to the active update set:
--Appears as link at the bottom of each record
--For adding multiple records at once, appears as a drop-down menu option on each list
--Special handling for tables &amp; fields to add all dependencies
--Special handling for catalog items &amp; order guides to add all dependencies (except user criteria)
--Special handling for workflows to handle all sub-flows
--Special handling for service portals, pages, and widgets to add all dependencies (except knowledge_bases/service_catalogs/chat_queues)
-</description><inserted/><name>Add to Update Set v2.6</name><origin_sys_id/><parent/><release_date/><remote_base_update_set/><remote_parent_id/><remote_sys_id>f7aaa44a0f221300324a943be1050e4c</remote_sys_id><state>loaded</state><summary/><sys_class_name>sys_remote_update_set</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-06-08 13:38:29</sys_created_on><sys_id>34cf2c0e0f221300324a943be1050e1b</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-06-08 13:38:29</sys_updated_on><update_set/><update_source/><updated/></sys_remote_update_set></unload>
